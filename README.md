@@ -11,3 +11,5 @@ Week02_Openframework and C++
 Week03_Python introduction
 
 Week04_Python libraries
+
+Week05_Introduction to Fundamental Machine Learning Concepts with RapidLib
