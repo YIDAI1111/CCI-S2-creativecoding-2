@@ -1,1 +1,1 @@
-![](https://daiyi2894264120.medium.com/cci-coding2-w-1dc4da84dc3a)
+![](https://miro.medium.com/max/4800/1*9rKGgaWjWoLfzlBa8y2xaA.png)
