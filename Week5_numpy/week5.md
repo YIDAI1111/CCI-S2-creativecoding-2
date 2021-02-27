@@ -1,4 +1,4 @@
- we use some modules from matplotlib, mpl_toolkits and numpy library.
+ I use some modules from matplotlib, mpl_toolkits and numpy library.
  
  The wireframe plot basically takes a grid of values and projects it onto the specified 3-dimensional surfaces, and it can help in making the resulting three-dimensional forms quite easy for visualization.
  
