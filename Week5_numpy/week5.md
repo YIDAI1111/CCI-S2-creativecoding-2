@@ -8,6 +8,8 @@ To create the 3D Wireframe plot the plot_wireframe() function will be used.
 ![](https://miro.medium.com/max/4800/1*9rKGgaWjWoLfzlBa8y2xaA.png)
 ![](https://miro.medium.com/max/1400/1*ayYvG7KvLuSX74RRIzXaBw.png)
 
+！[](https://www.froyodai.com/post/cci-s2-coding-two_week5-introduction-to-fundamental-machine-learning-concepts-with-rapidlib)
+
 Reference：https://www.studytonight.com/matplotlib/matplotlib-3d-wireframe-plot-plot_wireframe-function
 
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html
