@@ -1,3 +1,7 @@
+ This is my blog link:
+ 
+ https://www.froyodai.com/post/cci-s2-coding-two_week5-introduction-to-fundamental-machine-learning-concepts-with-rapidlib
+ 
  I use some modules from matplotlib, mpl_toolkits and numpy library.
  
  The wireframe plot basically takes a grid of values and projects it onto the specified 3-dimensional surfaces, and it can help in making the resulting three-dimensional forms quite easy for visualization.
