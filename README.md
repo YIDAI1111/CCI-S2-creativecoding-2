@@ -19,3 +19,23 @@ Week06_Python Machine Learning
 Week07_More Python Machine Learning
 
 Week08_Embedded development
+
+C plus plus documentation https://www.cplusplus.com
+
+Useful resources：
+
+openframeworks.cc
+https://openframeworks.cc
+
+Python
+https://www.python.org/
+
+https://www.anaconda.com/distribution/
+
+https://www.tensorflow.org/
+
+ML cheatsheet
+https://ml-cheatsheet.readthedocs.io/en/latest/
+
+Maths / Programming Cheat Sheet
+https://github.com/Jam3/math-as-code
