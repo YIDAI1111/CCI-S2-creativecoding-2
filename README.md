@@ -13,3 +13,9 @@ Week03_Python introduction
 Week04_Python libraries
 
 Week05_Introduction to Fundamental Machine Learning Concepts with RapidLib
+
+Week06_Python Machine Learning
+
+Week07_More Python Machine Learning
+
+Week08_Embedded development
