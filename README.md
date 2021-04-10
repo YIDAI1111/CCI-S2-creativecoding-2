@@ -20,9 +20,12 @@ Week07_More Python Machine Learning
 
 Week08_Embedded development
 
-C plus plus documentation https://www.cplusplus.com
 
 **Useful resources：**
+
+
+C plus plus documentation https://www.cplusplus.com
+
 
 openframeworks.cc
 https://openframeworks.cc
