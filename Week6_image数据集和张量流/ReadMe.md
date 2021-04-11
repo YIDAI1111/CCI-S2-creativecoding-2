@@ -1,4 +1,4 @@
-## Week6_image
+## Week6_image dataset and tensorflow
 
 ## Intro
 
