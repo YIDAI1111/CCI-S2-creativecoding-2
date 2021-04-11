@@ -2,7 +2,7 @@ This is my tensorflow Neural Style work:
 
 https://colab.research.google.com/drive/1J3yoaLmYBJhWJVeI5QOX58r_AdD_6qjV?usp=sharing
 
-![](https://www.pinterest.com/pin/732960908106841238)
+![](https://miro.medium.com/max/1400/1*e1vPoNu4FI2bQ1ML53It9A.png)
 
 This is my blog:
 
