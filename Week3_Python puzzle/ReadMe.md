@@ -1,3 +1,5 @@
+## Week3_Python puzzle
+
 I use pyhton to make a small puzzle, which is based on my birthday.
 
 This is my blog:
