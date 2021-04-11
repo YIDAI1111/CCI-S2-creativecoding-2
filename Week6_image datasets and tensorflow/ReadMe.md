@@ -2,9 +2,13 @@
 
 This exercise focus on using TensorFlow to create outputs
 
-Neural style transfer
+## Technology used for implementation
+
+# Neural style transfer
 
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
+
+# Design Process
 
 This is my tensorflow Neural Style work:
 
