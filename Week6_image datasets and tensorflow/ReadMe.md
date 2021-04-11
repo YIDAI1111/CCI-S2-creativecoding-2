@@ -1,3 +1,6 @@
+#Intro
+This exercise focus on using TensorFlow to create outputs
+
 This is my tensorflow Neural Style work:
 
 https://colab.research.google.com/drive/1J3yoaLmYBJhWJVeI5QOX58r_AdD_6qjV?usp=sharing
