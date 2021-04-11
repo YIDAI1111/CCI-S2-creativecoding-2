@@ -24,5 +24,7 @@ https://www.froyodai.com/post/cci-s2-coding-two_w7-using-deep-neural-networks-to
 
 ## References
 
-![](https://xqimg.imedao.com/17552eb62482acb3fc6ac6eb.jpg!800.jpg）
-![](https://d3rf6j5nx5r04a.cloudfront.net/XSTDWpPQZcTd9FhAFtseOJw9I8U=/2000x1000/blog/2/b/2/2b2099287f0b47f0867bf883bd411369.jpg）
+![](https://xqimg.imedao.com/17552eb62482acb3fc6ac6eb.jpg!800.jpg)
+
+![](https://d3rf6j5nx5r04a.cloudfront.net/XSTDWpPQZcTd9FhAFtseOJw9I8U=/2000x1000/blog/2/b/2/2b2099287f0b47f0867bf883bd411369.jpg)
+
