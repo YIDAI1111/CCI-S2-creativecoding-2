@@ -1,4 +1,5 @@
-#Intro
+##Intro
+
 This exercise focus on using TensorFlow to create outputs
 
 This is my tensorflow Neural Style work:
