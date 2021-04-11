@@ -1,6 +1,6 @@
 # CCI-S2-creativecoding-2
 
-**This is Creative Coding 2 - Advanced Framework course lab work **
+**This is Creative Coding 2 - Advanced Framework course lab work**
 
 Course Github Link: https://github.com/ual-cci/MSc-Coding-2
 
